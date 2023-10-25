@@ -21,7 +21,7 @@
 ## Stats
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmaiaa&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmaiaa&layout=compact&theme=tokyonight&hide_border=false&bg_color=#4682B4&title_color=#4682B4&icon_color=#4682B4"/>
 </div><br/>
 
 ## passionate about the evolution of technology and learning
