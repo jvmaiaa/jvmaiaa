@@ -18,6 +18,10 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmaiaa)](https://github.com/jvmaiaa/github-readme-stats)
+## Stats
+
+<div align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmaiaa&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
+</div><br/>
 
 ## passionate about the evolution of technology and learning
