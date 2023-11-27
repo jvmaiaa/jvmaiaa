@@ -1,4 +1,4 @@
-### Hi, my name is João Víctor 👋
+# Hi, my name is João Víctor 👋
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovictormaia482@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-víctor-maia-4b9961265/)
