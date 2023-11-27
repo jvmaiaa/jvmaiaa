@@ -24,4 +24,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmaiaa&layout=compact&theme=tokyonight&hide_border=false&bg_color=#4682B4&title_color=#4682B4&icon_color=#4682B4"/>
 </div><br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jvmaiaa&theme=tokyonight&background=#4682B4&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 ## passionate about the evolution of technology and learning
